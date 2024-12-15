@@ -1,0 +1,4 @@
+composer.lock
+vendor/
+.idea/
+PLACE_INPUT_HERE.txt
