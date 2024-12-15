@@ -1,5 +1,9 @@
 # 2024 - The quest for the Chief Historian
 
+## [Day 4](https://adventofcode.com/2024/day/4)
+
+XMAS pattern finding.
+
 ## [Day 3](https://adventofcode.com/2024/day/3)
 
 Using `preg_match` and `array_*` functions to find `mul()` operations in the
