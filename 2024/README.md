@@ -1,5 +1,10 @@
 # 2024 - The quest for the Chief Historian
 
+## [Day 3](https://adventofcode.com/2024/day/3)
+
+Using `preg_match` and `array_*` functions to find `mul()` operations in the
+input.
+
 ## [Day 2](https://adventofcode.com/2024/day/2)
 
 Notable detail, I reversed the test values of descending reports. That way I
