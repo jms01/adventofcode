@@ -1,5 +1,10 @@
 # 2024 - The quest for the Chief Historian
 
+## [Day 5](https://adventofcode.com/2024/day/5)
+
+Print jobs and errors. I implemented a `PrintingSpecification` class, which can easily be
+applied to a print job.
+
 ## [Day 4](https://adventofcode.com/2024/day/4)
 
 XMAS pattern finding.
