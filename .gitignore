@@ -2,3 +2,4 @@ composer.lock
 vendor/
 .idea/
 PLACE_INPUT_HERE.txt
+.php-cs-fixer.cache
